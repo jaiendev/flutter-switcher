@@ -1,16 +1,35 @@
-# button_switch_ui
+# Flutter UI Button Switch Test
 
-A new Flutter project.
+This project is a test application demonstrating a **UI Button Switch** in Flutter. The button switch allows users to toggle between two states, visually representing the changes with animations and color transitions.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Custom Switch Button**: A simple and interactive UI component that switches between two states.
+- **Smooth Color Transition**: The button smoothly transitions between colors when toggled.
+- **Responsive Design**: The UI adapts to different screen sizes.
+- **Touch Feedback**: Provides haptic feedback upon user interaction.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Here is a preview of the button switch UI:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Button Switch Preview](./assets/button_switch_preview.png)
+
+[Download the demo video](./path/to/video.mp4)
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/jaiendev/flutter-switcher.git
+
+2. Install the dependencies:
+
+   ```bash
+   flutter pub get
+
+2. Install the dependencies:
+
+   ```bash
+   flutter run
