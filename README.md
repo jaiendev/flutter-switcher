@@ -13,9 +13,7 @@ This project is a test application demonstrating a **UI Button Switch** in Flutt
 
 Here is a preview of the button switch UI:
 
-![Button Switch Preview](./assets/button_switch_preview.png)
-
-[Download the demo video](./path/to/video.mp4)
+![Demo Video](./assets/demo_video.gif)
 
 ## Installation
 
